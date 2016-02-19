@@ -18,3 +18,6 @@
 (live-load-config-file "git-gutter-conf.el")
 (live-load-config-file "floobits-conf.el")
 (live-load-config-file "wc-mode-conf.el")
+
+;; Should find a proper way to do this.
+(live-load-config-file "personal-conf.el")
